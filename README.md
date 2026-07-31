@@ -2,14 +2,14 @@
 
 ## 🎯 À propos
 
-Portfolio personnel d'**Abdallah Sow**, étudiant en deuxième année de BTS Services Informatiques aux Organisations (SIO), à la recherche d'un stage en développement informatique.
+Portfolio personnel d'**Abdallah Sow**
 
 ## 👨‍💻 Profil
 
 Passionné par les sciences humaines, les nouvelles technologies et le développement personnel, je combine une expertise linguistique unique avec des compétences techniques avancées en informatique.
 
 **Formation :**
-- 🎓 BTS Services Informatiques aux Organisations (SIO) - 2ème année
+- 🎓 BTS Services Informatiques aux Organisations (SIO) - SLAM
 - 🎓 Licence LLCER (Langues, Littératures et Civilisations Étrangères et Régionales) - Mondes Arabes, Université Paris 8
 - 🔐 Formations autodidactes en programmation et cybersécurité
 
@@ -101,7 +101,7 @@ Le site inclut :
 
 **Abdallah Sow**
 - 🎯 **Objectif :** Alternance en développement informatique
-- 🎓 **Formation :** BTS SIO (2ème année)
+- 🎓 **Formation :** BTS SIO 
 - 💼 **Spécialités :** Développement web, Python, PHP, JavaScript, SQL & C#
 - 🌐 **Langues :** Français, Arabe, Anglais
 
@@ -115,6 +115,4 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
 ---
 
-*Dernière mise à jour : Octobre 2025*
-
-**En recherche active d'un stage en développement informatique** 🚀
+*Dernière mise à jour : Juillet 2026*
